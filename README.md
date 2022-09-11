@@ -1,9 +1,7 @@
 # E-commerce website 
-<img
-  src="[![image](https://user-images.githubusercontent.com/90265701/189528064-337787d8-60ea-4ff3-9ef6-238fcbad3108.png)](https://github.com/ashalupreti/ecommerce/blob/main/img/Screenshot%20(229).png?raw=true)"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+### Output
+
+![Screenshot (229)](https://user-images.githubusercontent.com/90265701/189528217-6b5ceb80-73e2-462b-ae58-b934a6aef191.png)
 
 Build in HTML,CSS and Javascript
 
